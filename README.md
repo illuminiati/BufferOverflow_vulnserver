@@ -2,7 +2,8 @@
 
 Vulnserver is a vulernerable buffer overflow server hosted in TryHAckMe  for beginners to learn and practice the Buffer overflow.
 
-Execut the program in the following order.
+Steps to be followed
+
 Copy skeleton
 Run Crash
 Run Find breakPoint
