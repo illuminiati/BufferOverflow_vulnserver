@@ -6,7 +6,7 @@ Steps to be followed
 
 Copy skeleton
 Run Crash
-Run Find breakPoint
+Run offset
 Run Control EIP
 Run !mona modules to find the JMP ESP
 Run Bad Characters
